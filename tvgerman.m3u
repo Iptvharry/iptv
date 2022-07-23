@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://iptvx.one/epg/epg_lite.xml.gz"
 #EXTINF:0 tvg-id="13thStreet.de" group-title="Sky",13TH STREET
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://mastaaa.dynv6.net/playlist2.php?id=1
