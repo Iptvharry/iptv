@@ -1,0 +1,1471 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Example">
+    <display-name lang="en">Example</display-name>
+    <url>http://www.dummy</url>
+  </channel>
+  <channel id="Das Erste">
+    <display-name lang="de">Das Erste</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ZDF">
+    <display-name lang="de">ZDF</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RTL">
+    <display-name lang="de">RTL</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SAT.1">
+    <display-name lang="de">SAT.1</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ProSieben">
+    <display-name lang="de">ProSieben</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="VOX">
+    <display-name lang="de">VOX</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Kabel Eins">
+    <display-name lang="de">Kabel Eins</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RTLZWEI">
+    <display-name lang="de">RTLZWEI</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Super RTL">
+    <display-name lang="de">Super RTL</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="KiKA">
+    <display-name lang="de">KiKA</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Nick/Comedy Central+1">
+    <display-name lang="de">Nick/Comedy Central+1</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="3sat">
+    <display-name lang="de">3sat</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="WELT">
+    <display-name lang="de">WELT</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="n-tv">
+    <display-name lang="de">n-tv</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="phoenix">
+    <display-name lang="de">phoenix</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="TELE 5">
+    <display-name lang="de">TELE 5</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ZDFneo">
+    <display-name lang="de">ZDFneo</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="#dabeiTV">
+    <display-name lang="de">#dabeiTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Lokal-TV">
+    <display-name lang="de">Lokal-TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="BR Fernsehen Süd">
+    <display-name lang="de">BR Fernsehen Süd</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="hr-fernsehen">
+    <display-name lang="de">hr-fernsehen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="MDR-Fernsehen Sachsen">
+    <display-name lang="de">MDR-Fernsehen Sachsen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="NDR Fernsehen Niedersachsen">
+    <display-name lang="de">NDR Fernsehen Niedersachsen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Radio Bremen TV">
+    <display-name lang="de">Radio Bremen TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="rbb fernsehen Berlin">
+    <display-name lang="de">rbb fernsehen Berlin</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SR Fernsehen">
+    <display-name lang="de">SR Fernsehen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SWR Fernsehen BW">
+    <display-name lang="de">SWR Fernsehen BW</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SWR Fernsehen RP">
+    <display-name lang="de">SWR Fernsehen RP</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="WDR Fernsehen Köln">
+    <display-name lang="de">WDR Fernsehen Köln</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RTL+ LIVE 1">
+    <display-name lang="de">RTL+ LIVE 1</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RTL+ LIVE 2">
+    <display-name lang="de">RTL+ LIVE 2</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RTL+ LIVE 3">
+    <display-name lang="de">RTL+ LIVE 3</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RTL+ LIVE 4">
+    <display-name lang="de">RTL+ LIVE 4</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RTL+ LIVE 5">
+    <display-name lang="de">RTL+ LIVE 5</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RTL+ LIVE 6">
+    <display-name lang="de">RTL+ LIVE 6</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Eurosport 1">
+    <display-name lang="de">Eurosport 1</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="More Than Sports TV">
+    <display-name lang="de">More Than Sports TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Red Bull TV">
+    <display-name lang="de">Red Bull TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Servus TV Motorsport">
+    <display-name lang="de">Servus TV Motorsport</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SPORT1">
+    <display-name lang="de">SPORT1</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ARTE">
+    <display-name lang="de">ARTE</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ONE">
+    <display-name lang="de">ONE</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ANIXE+">
+    <display-name lang="de">ANIXE+</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ANIXE HD Serie">
+    <display-name lang="de">ANIXE HD Serie</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="de">Comedy Central</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="craction">
+    <display-name lang="de">craction</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="de">Disney Channel</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="DMAX">
+    <display-name lang="de">DMAX</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Fashion TV">
+    <display-name lang="de">Fashion TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="HGTV">
+    <display-name lang="de">HGTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="INPLUS">
+    <display-name lang="de">INPLUS</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="OUTtv">
+    <display-name lang="de">OUTtv</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ProSieben MAXX">
+    <display-name lang="de">ProSieben MAXX</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="NITRO">
+    <display-name lang="de">NITRO</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RTLup">
+    <display-name lang="de">RTLup</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RiC">
+    <display-name lang="de">RiC</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SAT.1 GOLD">
+    <display-name lang="de">SAT.1 GOLD</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ServusTV">
+    <display-name lang="de">ServusTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="sixx">
+    <display-name lang="de">sixx</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="de">TLC</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="TOGGO plus">
+    <display-name lang="de">TOGGO plus</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="VOXup">
+    <display-name lang="de">VOXup</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="wedo movies">
+    <display-name lang="de">wedo movies</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ARD-alpha">
+    <display-name lang="de">ARD-alpha</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Bibel TV">
+    <display-name lang="de">Bibel TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="BILD">
+    <display-name lang="de">BILD</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Euronews Deutsch">
+    <display-name lang="de">Euronews Deutsch</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="health tv">
+    <display-name lang="de">health tv</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="K-TV">
+    <display-name lang="de">K-TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Kabel Eins Doku">
+    <display-name lang="de">Kabel Eins Doku</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Marco Polo TV">
+    <display-name lang="de">Marco Polo TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="N24 Doku">
+    <display-name lang="de">N24 Doku</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="tagesschau24">
+    <display-name lang="de">tagesschau24</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Welt der Wunder">
+    <display-name lang="de">Welt der Wunder</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ZDFinfo">
+    <display-name lang="de">ZDFinfo</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="DELUXE MUSIC">
+    <display-name lang="de">DELUXE MUSIC</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="de">MTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Deutsches Musik Fernsehen">
+    <display-name lang="de">Deutsches Musik Fernsehen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Ballermann TV">
+    <display-name lang="de">Ballermann TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Schlagerparadies.TV">
+    <display-name lang="de">Schlagerparadies.TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Volksmusik.TV">
+    <display-name lang="de">Volksmusik.TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="FOLX MUSIC TELEVISION">
+    <display-name lang="de">FOLX MUSIC TELEVISION</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ONE MUSIC TELEVISION">
+    <display-name lang="de">ONE MUSIC TELEVISION</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ZWEI MUSIC TELEVISION">
+    <display-name lang="de">ZWEI MUSIC TELEVISION</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Stingray Classica">
+    <display-name lang="de">Stingray Classica</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Stingray iConcerts">
+    <display-name lang="de">Stingray iConcerts</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Stingray DJAZZ">
+    <display-name lang="de">Stingray DJAZZ</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="1-2-3.tv">
+    <display-name lang="de">1-2-3.tv</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="CHANNEL21">
+    <display-name lang="de">CHANNEL21</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="HSE">
+    <display-name lang="de">HSE</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Juwelo">
+    <display-name lang="de">Juwelo</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="QVC">
+    <display-name lang="de">QVC</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Shop LC">
+    <display-name lang="de">Shop LC</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="sonnenklar.TV">
+    <display-name lang="de">sonnenklar.TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Al Jazeera English">
+    <display-name lang="de">Al Jazeera English</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Asharq News">
+    <display-name lang="de">Asharq News</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="TSD">
+    <display-name lang="de">TSD</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="BBC World">
+    <display-name lang="de">BBC World</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="CNBC International">
+    <display-name lang="de">CNBC International</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="CNN International">
+    <display-name lang="de">CNN International</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="1+1 International">
+    <display-name lang="de">1+1 International</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Ukraine 24">
+    <display-name lang="de">Ukraine 24</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Nickelodeon Ukraine Pluto TV">
+    <display-name lang="de">Nickelodeon Ukraine Pluto TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="France 24 francais">
+    <display-name lang="de">France 24 francais</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="France 24 english">
+    <display-name lang="de">France 24 english</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="TV5MONDE Europe">
+    <display-name lang="de">TV5MONDE Europe</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Magenta Musik 1">
+    <display-name lang="de">Magenta Musik 1</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Magenta Musik 2">
+    <display-name lang="de">Magenta Musik 2</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="13TH STREET">
+    <display-name lang="de">13TH STREET</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SONY AXN">
+    <display-name lang="de">SONY AXN</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Kabel Eins CLASSICS">
+    <display-name lang="de">Kabel Eins CLASSICS</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="KinoweltTV">
+    <display-name lang="de">KinoweltTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ProSieben FUN">
+    <display-name lang="de">ProSieben FUN</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RTL Crime">
+    <display-name lang="de">RTL Crime</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SYFY">
+    <display-name lang="de">SYFY</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Warner TV Comedy">
+    <display-name lang="de">Warner TV Comedy</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Warner TV Film">
+    <display-name lang="de">Warner TV Film</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Warner TV Serie">
+    <display-name lang="de">Warner TV Serie</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Universal TV">
+    <display-name lang="de">Universal TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="de">Baby TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="de">Boomerang</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="de">Cartoon Network</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="de">Nick Jr.</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="BonGusto">
+    <display-name lang="de">BonGusto</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="E! Entertainment">
+    <display-name lang="de">E! Entertainment</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Heimatkanal">
+    <display-name lang="de">Heimatkanal</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RTL Passion">
+    <display-name lang="de">RTL Passion</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Romance TV">
+    <display-name lang="de">Romance TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RTL Living">
+    <display-name lang="de">RTL Living</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SAT.1 emotions">
+    <display-name lang="de">SAT.1 emotions</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SONY CHANNEL">
+    <display-name lang="de">SONY CHANNEL</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="wetter.com TV">
+    <display-name lang="de">wetter.com TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="de">Animal Planet</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Crime+Investigation">
+    <display-name lang="de">Crime+Investigation</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="de">Discovery Channel</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="GEO Television">
+    <display-name lang="de">GEO Television</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="The HISTORY Channel">
+    <display-name lang="de">The HISTORY Channel</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="de">National Geographic</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="National Geographic Wild">
+    <display-name lang="de">National Geographic Wild</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Bergblick">
+    <display-name lang="de">Bergblick</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Spiegel Geschichte">
+    <display-name lang="de">Spiegel Geschichte</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Curiosity Channel powered by SPIEGEL">
+    <display-name lang="de">Curiosity Channel powered by SPIEGEL</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="auto motor und sport">
+    <display-name lang="de">auto motor und sport</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="de">Eurosport 2</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Extreme Sports">
+    <display-name lang="de">Extreme Sports</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="MOTORVISION.TV">
+    <display-name lang="de">MOTORVISION.TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SPORT1+">
+    <display-name lang="de">SPORT1+</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="eSPORTS1">
+    <display-name lang="de">eSPORTS1</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SPORTDIGITAL FUSSBALL">
+    <display-name lang="de">SPORTDIGITAL FUSSBALL</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Blue Hustler">
+    <display-name lang="de">Blue Hustler</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Lust pur">
+    <display-name lang="de">Lust pur</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Penthouse Passion">
+    <display-name lang="de">Penthouse Passion</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Playboy Europe">
+    <display-name lang="de">Playboy Europe</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Jukebox">
+    <display-name lang="de">Jukebox</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="MagentaSport">
+    <display-name lang="de">MagentaSport</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 1 - myTeamTV">
+    <display-name lang="de">Sport 1 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 2 - myTeamTV">
+    <display-name lang="de">Sport 2 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 3 - myTeamTV">
+    <display-name lang="de">Sport 3 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 4 - myTeamTV">
+    <display-name lang="de">Sport 4 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 5 - myTeamTV">
+    <display-name lang="de">Sport 5 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 6 - myTeamTV">
+    <display-name lang="de">Sport 6 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 7 - myTeamTV">
+    <display-name lang="de">Sport 7 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 8 - myTeamTV">
+    <display-name lang="de">Sport 8 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 9 - myTeamTV">
+    <display-name lang="de">Sport 9 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 10 - myTeamTV">
+    <display-name lang="de">Sport 10 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 11 - myTeamTV">
+    <display-name lang="de">Sport 11 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 12 - myTeamTV">
+    <display-name lang="de">Sport 12 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 13 - myTeamTV">
+    <display-name lang="de">Sport 13 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 14 - myTeamTV">
+    <display-name lang="de">Sport 14 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 15 - myTeamTV">
+    <display-name lang="de">Sport 15 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 16 - myTeamTV">
+    <display-name lang="de">Sport 16 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 17 - myTeamTV">
+    <display-name lang="de">Sport 17 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport 18 - myTeamTV">
+    <display-name lang="de">Sport 18 - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sport Free - myTeamTV">
+    <display-name lang="de">Sport Free - myTeamTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="FC BAYERN.TV LIVE">
+    <display-name lang="de">FC BAYERN.TV LIVE</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Kompakt 1">
+    <display-name lang="de">Sky Sport Kompakt 1</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Kompakt 2">
+    <display-name lang="de">Sky Sport Kompakt 2</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Kompakt 3">
+    <display-name lang="de">Sky Sport Kompakt 3</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Kompakt 4">
+    <display-name lang="de">Sky Sport Kompakt 4</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Kompakt 5">
+    <display-name lang="de">Sky Sport Kompakt 5</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="DAZN 1">
+    <display-name lang="de">DAZN 1</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="DAZN 2">
+    <display-name lang="de">DAZN 2</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="TeleBom/TeleDom">
+    <display-name lang="de">TeleBom/TeleDom</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Euronews Russki">
+    <display-name lang="de">Euronews Russki</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Kinomir">
+    <display-name lang="de">Kinomir</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="OstWest">
+    <display-name lang="de">OstWest</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="iTVN">
+    <display-name lang="de">iTVN</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="TV Polonia">
+    <display-name lang="de">TV Polonia</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="CEM TV">
+    <display-name lang="de">CEM TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Euro D">
+    <display-name lang="de">Euro D</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Eurostar TV">
+    <display-name lang="de">Eurostar TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Kanal 7">
+    <display-name lang="de">Kanal 7</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="beIN iZ">
+    <display-name lang="de">beIN iZ</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="beIN Movies Turk">
+    <display-name lang="de">beIN Movies Turk</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Habertürk TV">
+    <display-name lang="de">Habertürk TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Show Turk">
+    <display-name lang="de">Show Turk</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Show Max">
+    <display-name lang="de">Show Max</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="TV8 Int">
+    <display-name lang="de">TV8 Int</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ÜLKE TV">
+    <display-name lang="de">ÜLKE TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Euronews Italiano">
+    <display-name lang="de">Euronews Italiano</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Rai 1">
+    <display-name lang="de">Rai 1</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Rai 2">
+    <display-name lang="de">Rai 2</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Rai 3">
+    <display-name lang="de">Rai 3</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Baden TV">
+    <display-name lang="de">Baden TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Baden TV Süd">
+    <display-name lang="de">Baden TV Süd</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="L-TV">
+    <display-name lang="de">L-TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Regio TV">
+    <display-name lang="de">Regio TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RNF">
+    <display-name lang="de">RNF</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="a.tv">
+    <display-name lang="de">a.tv</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="allgäu.tv">
+    <display-name lang="de">allgäu.tv</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="BR Fernsehen Nord">
+    <display-name lang="de">BR Fernsehen Nord</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="NIEDERBAYERN TV - DEG">
+    <display-name lang="de">NIEDERBAYERN TV - DEG</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Franken Fernsehen">
+    <display-name lang="de">Franken Fernsehen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="tv.ingolstadt">
+    <display-name lang="de">tv.ingolstadt</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="NIEDERBAYERN TV - LA">
+    <display-name lang="de">NIEDERBAYERN TV - LA</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="münchen.tv">
+    <display-name lang="de">münchen.tv</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Oberpfalz TV">
+    <display-name lang="de">Oberpfalz TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RFO">
+    <display-name lang="de">RFO</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SAT.1 Bayern">
+    <display-name lang="de">SAT.1 Bayern</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="NIEDERBAYERN TV - PA">
+    <display-name lang="de">NIEDERBAYERN TV - PA</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="TV Oberfranken">
+    <display-name lang="de">TV Oberfranken</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="TV Mainfranken">
+    <display-name lang="de">TV Mainfranken</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="TVA Ostbayern">
+    <display-name lang="de">TVA Ostbayern</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ALEX Berlin">
+    <display-name lang="de">ALEX Berlin</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="HAUPTSTADT.TV">
+    <display-name lang="de">HAUPTSTADT.TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="tv.berlin">
+    <display-name lang="de">tv.berlin</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="rbb fernsehen Brandenburg">
+    <display-name lang="de">rbb fernsehen Brandenburg</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RTL HB NDS">
+    <display-name lang="de">RTL HB NDS</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SAT.1 NDS Bremen">
+    <display-name lang="de">SAT.1 NDS Bremen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Hamburg 1">
+    <display-name lang="de">Hamburg 1</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="NDR Fernsehen Hamburg">
+    <display-name lang="de">NDR Fernsehen Hamburg</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="NDR Fernsehen Schleswig-Holstein">
+    <display-name lang="de">NDR Fernsehen Schleswig-Holstein</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RTL HH SH">
+    <display-name lang="de">RTL HH SH</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SAT.1 HH SH">
+    <display-name lang="de">SAT.1 HH SH</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="OF-TV">
+    <display-name lang="de">OF-TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Rhein-Main TV">
+    <display-name lang="de">Rhein-Main TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RTL Hessen">
+    <display-name lang="de">RTL Hessen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="NDR Fernsehen Mecklenburg-Vorpommern">
+    <display-name lang="de">NDR Fernsehen Mecklenburg-Vorpommern</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="ems TV">
+    <display-name lang="de">ems TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Friesischer Rundfunk">
+    <display-name lang="de">Friesischer Rundfunk</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="nrwision">
+    <display-name lang="de">nrwision</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RTL NRW">
+    <display-name lang="de">RTL NRW</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SAT.1 NRW">
+    <display-name lang="de">SAT.1 NRW</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Studio 47">
+    <display-name lang="de">Studio 47</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="WDR Fernsehen Aachen">
+    <display-name lang="de">WDR Fernsehen Aachen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="WDR Fernsehen Bielefeld">
+    <display-name lang="de">WDR Fernsehen Bielefeld</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="WDR Fernsehen Bonn">
+    <display-name lang="de">WDR Fernsehen Bonn</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="WDR Fernsehen Dortmund">
+    <display-name lang="de">WDR Fernsehen Dortmund</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="WDR Fernsehen Duisburg">
+    <display-name lang="de">WDR Fernsehen Duisburg</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="WDR Fernsehen Düsseldorf">
+    <display-name lang="de">WDR Fernsehen Düsseldorf</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="WDR Fernsehen Essen">
+    <display-name lang="de">WDR Fernsehen Essen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="WDR Fernsehen Münster">
+    <display-name lang="de">WDR Fernsehen Münster</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="WDR Fernsehen Siegen">
+    <display-name lang="de">WDR Fernsehen Siegen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="WDR Fernsehen Wuppertal">
+    <display-name lang="de">WDR Fernsehen Wuppertal</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="OK4">
+    <display-name lang="de">OK4</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="OK54 Trier">
+    <display-name lang="de">OK54 Trier</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="OK Weinstraße">
+    <display-name lang="de">OK Weinstraße</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="OK-TV Ludwigshafen">
+    <display-name lang="de">OK-TV Ludwigshafen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="OK:TV Mainz">
+    <display-name lang="de">OK:TV Mainz</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SAT.1 RhlPf Hessen">
+    <display-name lang="de">SAT.1 RhlPf Hessen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="TV Mittelrhein">
+    <display-name lang="de">TV Mittelrhein</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="WWTV">
+    <display-name lang="de">WWTV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Chemnitz Fernsehen">
+    <display-name lang="de">Chemnitz Fernsehen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Dresden Fernsehen">
+    <display-name lang="de">Dresden Fernsehen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="LAUSITZWELLE">
+    <display-name lang="de">LAUSITZWELLE</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Leipzig Fernsehen">
+    <display-name lang="de">Leipzig Fernsehen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="TV Westsachsen">
+    <display-name lang="de">TV Westsachsen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="MDF.1 Fernsehen">
+    <display-name lang="de">MDF.1 Fernsehen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="MDR-Fernsehen Sachsen-Anhalt">
+    <display-name lang="de">MDR-Fernsehen Sachsen-Anhalt</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="RFH Regionalfernsehen Harz">
+    <display-name lang="de">RFH Regionalfernsehen Harz</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="altenburg.tv">
+    <display-name lang="de">altenburg.tv</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="MDR-Fernsehen Thüringen">
+    <display-name lang="de">MDR-Fernsehen Thüringen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Rennsteig.TV">
+    <display-name lang="de">Rennsteig.TV</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="salve.tv">
+    <display-name lang="de">salve.tv</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SRF">
+    <display-name lang="de">SRF</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky One">
+    <display-name lang="de">Sky One</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SkyKrimi">
+    <display-name lang="de">SkyKrimi</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SkyAtlantic">
+    <display-name lang="de">SkyAtlantic</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Comedy">
+    <display-name lang="de">Sky Comedy</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Replay">
+    <display-name lang="de">Sky Replay</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Crime">
+    <display-name lang="de">Sky Crime</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Documentaries">
+    <display-name lang="de">Sky Documentaries</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Nature">
+    <display-name lang="de">Sky Nature</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="SYFY (Sky)">
+    <display-name lang="de">SYFY (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="13TH STREET (Sky)">
+    <display-name lang="de">13TH STREET (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Universal TV (Sky)">
+    <display-name lang="de">Universal TV (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="E! Entertainment (Sky)">
+    <display-name lang="de">E! Entertainment (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Warner TV Serie (Sky)">
+    <display-name lang="de">Warner TV Serie (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Warner TV Comedy (Sky)">
+    <display-name lang="de">Warner TV Comedy (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Heimatkanal (Sky)">
+    <display-name lang="de">Heimatkanal (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Romance TV (Sky)">
+    <display-name lang="de">Romance TV (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="National Geographic (Sky)">
+    <display-name lang="de">National Geographic (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="National Geographic Wild (Sky)">
+    <display-name lang="de">National Geographic Wild (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Spiegel Geschichte (Sky)">
+    <display-name lang="de">Spiegel Geschichte (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Curiosity Channel powered by SPIEGEL (Sky)">
+    <display-name lang="de">Curiosity Channel powered by SPIEGEL (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="The HISTORY Channel (Sky)">
+    <display-name lang="de">The HISTORY Channel (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Discovery Channel (Sky)">
+    <display-name lang="de">Discovery Channel (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Crime+Investigation (Sky)">
+    <display-name lang="de">Crime+Investigation (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Boomerang (Sky)">
+    <display-name lang="de">Boomerang (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Junior (Sky)">
+    <display-name lang="de">Junior (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Nick Jr. (Sky)">
+    <display-name lang="de">Nick Jr. (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Nicktoons (Sky)">
+    <display-name lang="de">Nicktoons (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Cartoon Network (Sky)">
+    <display-name lang="de">Cartoon Network (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Jukebox (Sky)">
+    <display-name lang="de">Jukebox (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Beate-Uhse.TV (Sky)">
+    <display-name lang="de">Beate-Uhse.TV (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Cinema Premieren">
+    <display-name lang="de">Sky Cinema Premieren</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Cinema Premieren +24">
+    <display-name lang="de">Sky Cinema Premieren +24</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Cinema Best of">
+    <display-name lang="de">Sky Cinema Best of</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Cinema Thriller">
+    <display-name lang="de">Sky Cinema Thriller</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Cinema Action">
+    <display-name lang="de">Sky Cinema Action</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Cinema Family">
+    <display-name lang="de">Sky Cinema Family</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Cinema Special">
+    <display-name lang="de">Sky Cinema Special</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Cinema Fun">
+    <display-name lang="de">Sky Cinema Fun</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Cinema Classics">
+    <display-name lang="de">Sky Cinema Classics</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Warner TV Film (Sky)">
+    <display-name lang="de">Warner TV Film (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport News">
+    <display-name lang="de">Sky Sport News</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Top Event">
+    <display-name lang="de">Sky Sport Top Event</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga">
+    <display-name lang="de">Sky Sport Bundesliga</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport F1">
+    <display-name lang="de">Sky Sport F1</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Premier League">
+    <display-name lang="de">Sky Sport Premier League</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Mix">
+    <display-name lang="de">Sky Sport Mix</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Tennis">
+    <display-name lang="de">Sky Sport Tennis</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Golf">
+    <display-name lang="de">Sky Sport Golf</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 1">
+    <display-name lang="de">Sky Sport Bundesliga 1</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 2">
+    <display-name lang="de">Sky Sport Bundesliga 2</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 3">
+    <display-name lang="de">Sky Sport Bundesliga 3</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 4">
+    <display-name lang="de">Sky Sport Bundesliga 4</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 5">
+    <display-name lang="de">Sky Sport Bundesliga 5</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 6">
+    <display-name lang="de">Sky Sport Bundesliga 6</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 7">
+    <display-name lang="de">Sky Sport Bundesliga 7</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 8">
+    <display-name lang="de">Sky Sport Bundesliga 8</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 9">
+    <display-name lang="de">Sky Sport Bundesliga 9</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport Bundesliga 10">
+    <display-name lang="de">Sky Sport Bundesliga 10</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport 1">
+    <display-name lang="de">Sky Sport 1</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport 2">
+    <display-name lang="de">Sky Sport 2</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport 3">
+    <display-name lang="de">Sky Sport 3</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport 4">
+    <display-name lang="de">Sky Sport 4</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport 5">
+    <display-name lang="de">Sky Sport 5</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport 6">
+    <display-name lang="de">Sky Sport 6</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport 7">
+    <display-name lang="de">Sky Sport 7</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport 8">
+    <display-name lang="de">Sky Sport 8</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport 9">
+    <display-name lang="de">Sky Sport 9</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Sky Sport 10">
+    <display-name lang="de">Sky Sport 10</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Eurosport 1 (Sky)">
+    <display-name lang="de">Eurosport 1 (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Eurosport 2 (Sky)">
+    <display-name lang="de">Eurosport 2 (Sky)</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Testkanal L01">
+    <display-name lang="de">Testkanal L01</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Testkanal L02">
+    <display-name lang="de">Testkanal L02</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Testkanal L03">
+    <display-name lang="de">Testkanal L03</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Testkanal L04">
+    <display-name lang="de">Testkanal L04</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Testkanal L05">
+    <display-name lang="de">Testkanal L05</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Testkanal L06">
+    <display-name lang="de">Testkanal L06</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Testkanal L07">
+    <display-name lang="de">Testkanal L07</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Testkanal I01">
+    <display-name lang="de">Testkanal I01</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Testkanal I03">
+    <display-name lang="de">Testkanal I03</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Megathek">
+    <display-name lang="de">Megathek</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Testkanal H01">
+    <display-name lang="de">Testkanal H01</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <channel id="Meine Aufnahmen">
+    <display-name lang="de">Meine Aufnahmen</display-name>
+    <url>http://www.web.magentatv.de</url>
+  </channel>
+  <programme start="20220723000000 +0100" stop="20220723235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220724000000 +0100" stop="20220724235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220725000000 +0100" stop="20220725235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220726000000 +0100" stop="20220726235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220727000000 +0100" stop="20220727235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220728000000 +0100" stop="20220728235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220729000000 +0100" stop="20220729235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220730000000 +0100" stop="20220730235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+  <programme start="20220731000000 +0100" stop="20220731235900 +0100" channel="Example">
+    <title lang="en">dummy program - Full Day Show</title>
+    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
+  </programme>
+</tv>
