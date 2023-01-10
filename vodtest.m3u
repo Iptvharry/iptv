@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD",Priest (2011)
-https://delivery-node-yi8i3hpnclfyunpf.voe-network.net/engine/hls2/01/07690/53b3e6jvh3la_n/master.m3u8?t=6itbxa-abgKz0QgkjN0m4ufDNdCogHIfgzgV67Kg4aQ&s=1673277878&e=14400&f=38452529&node=delivery-node-yi8i3hpnclfyunpf.voe-network.net&i=79.226&sp=4500&asn=3320
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD",Mandrake (2022)
-https://delivery-node-girmnrmb2ev1lay6.voe-network.net/engine/hls2-c/01/08593/uqmxs3n77twa_n/master.m3u8?t=3ptO_H0rnJdJJVU6TQzelJMfr7V5kM6jk7NFJtWkFDg&s=1673282825&e=14400&f=42966936&node=delivery-node-tbrhqa7kmr6tsjqh.voe-network.net&i=79.226&sp=4500&asn=3320
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD",Resident Evil (2002)
-https://delivery-node-dab59unagzatnxkw.voe-network.net/engine/hls2/01/08601/9guqosbmvjut_n/master.m3u8?t=AJKM3ZtLCIpIkV4I3fMm0vAwOOYjyRY6mzzr2ZJf-_8&s=1673283298&e=14400&f=43007047&node=delivery-node-dab59unagzatnxkw.voe-network.net&i=79.226&sp=4500&asn=3320
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD",Resident Evil: Apocalypse (2004)
-https://delivery-node-taqiyah.voe-network.net/engine/hls2/01/08601/d2elq223cnj7_n/master.m3u8?t=GviYSmWiqN-39BYO8D0f5muJ1lI7C2zl9Dx1THFt-FU&s=1673283468&e=14400&f=43007587&node=delivery-node-taqiyah.voe-network.net&i=79.226&sp=4500&asn=3320
