@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/xe47yzp62psd69e3y9vq"
+#EXTM3U url-tvg="http://m3u4u.com/epg/xe47yzp62psd69e3y9vq" x-tvg-url="http://stronzo.ddnss.de:8409/iptv/xmltv.xml"
 #EXTINF:-1 tvg-id="3sat.de(m3u4u)" tvg-name="3 Sat HD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66621_dark_360w_270h.png" group-title="Free Tv" ,3 Sat HD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://45.129.133.5:8008/a/willene/live/1724191535.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
@@ -2897,57 +2897,222 @@ http://89.36.94.102:8008/a/willene/live/1618871797.ts?n=1&b=5&vavoo_auth=eyJkYXR
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="UPC My Sports FHD" tvg-logo="" group-title="Eurosport/Sport" ,UPC My Sports FHD
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://45.129.133.4:8008/a/willene/live/783892842.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="RTLPlus(src01).de(m3u4u)" tvg-name="Rtl+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/2560px-RTL%2B_Logo_2021.svg.png" group-title="RTL+" ,Rtl+
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://185.53.88.85:8008/a/willene/live/476158373.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="RTLplusLIVE1(src01).de(m3u4u)" tvg-name="Rtl+ Live 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/2560px-RTL%2B_Logo_2021.svg.png" group-title="RTL+" ,Rtl+ Live 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://45.129.133.5:8008/a/willene/live/1225014126.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="RTLplusLIVE2(src01).de(m3u4u)" tvg-name="Rtl+ Live 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/2560px-RTL%2B_Logo_2021.svg.png" group-title="RTL+" ,Rtl+ Live 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://45.129.133.4:8008/a/willene/live/245645758.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="RTLplusLIVE3(src01).de(m3u4u)" tvg-name="Rtl+ Live 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/2560px-RTL%2B_Logo_2021.svg.png" group-title="RTL+" ,Rtl+ Live 3
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://45.129.133.5:8008/a/willene/live/868509710.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="RTLplusLIVE4(src01).de(m3u4u)" tvg-name="Rtl+ Live 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/2560px-RTL%2B_Logo_2021.svg.png" group-title="RTL+" ,Rtl+ Live 4
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://45.129.133.4:8008/a/willene/live/2179249182.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="RTLplusLIVE5(src01).de(m3u4u)" tvg-name="Rtl+ Live 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/2560px-RTL%2B_Logo_2021.svg.png" group-title="RTL+" ,Rtl+ Live 5
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://45.129.133.5:8008/a/willene/live/3162807726.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="RTLplusLIVE6(src01).de(m3u4u)" tvg-name="Rtl+ Live 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/2560px-RTL%2B_Logo_2021.svg.png" group-title="RTL+" ,Rtl+ Live 6
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://45.129.133.4:8008/a/willene/live/4213499774.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rtl+ Sport Event 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/2560px-RTL%2B_Logo_2021.svg.png" group-title="RTL+" ,Rtl+ Sport Event 1
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://45.129.133.5:8008/a/willene/live/3980547852.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rtl+ Sport Event 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/2560px-RTL%2B_Logo_2021.svg.png" group-title="RTL+" ,Rtl+ Sport Event 2
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://45.129.133.4:8008/a/willene/live/2866949596.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rtl+ Sport Event 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/2560px-RTL%2B_Logo_2021.svg.png" group-title="RTL+" ,Rtl+ Sport Event 3
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://45.129.133.5:8008/a/willene/live/2541880428.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rtl+ Sport Event 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/2560px-RTL%2B_Logo_2021.svg.png" group-title="RTL+" ,Rtl+ Sport Event 4
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://45.129.133.4:8008/a/willene/live/631429244.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rtl+ Sport Event 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/2560px-RTL%2B_Logo_2021.svg.png" group-title="RTL+" ,Rtl+ Sport Event 5
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://45.129.133.5:8008/a/willene/live/415429068.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rtl+ Sport Event 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/2560px-RTL%2B_Logo_2021.svg.png" group-title="RTL+" ,Rtl+ Sport Event 6
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://45.129.133.4:8008/a/willene/live/1600293660.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rtl+ Sport Event 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/2560px-RTL%2B_Logo_2021.svg.png" group-title="RTL+" ,Rtl+ Sport Event 7
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://45.129.133.5:8008/a/willene/live/1644339884.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rtl+ Sport Event 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/2560px-RTL%2B_Logo_2021.svg.png" group-title="RTL+" ,Rtl+ Sport Event 8
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://45.129.133.4:8008/a/willene/live/3763484029.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rtl+ Sport Event 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/2560px-RTL%2B_Logo_2021.svg.png" group-title="RTL+" ,Rtl+ Sport Event 9
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://45.129.133.5:8008/a/willene/live/3711048909.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
-#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Rtl+ Sport Event 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RTL%2B_Logo_2021.svg/2560px-RTL%2B_Logo_2021.svg.png" group-title="RTL+" ,Rtl+ Sport Event 10
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-http://89.36.94.102:8008/a/willene/live/2907948630.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24 Twentyfour HD" tvg-logo="" group-title="24/7 Serien",24 Twentyfour HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StL6qQyFElrs608y9env-J20ntsMGVUYf99HWQYQLhyJ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="4 Blocks HD" tvg-logo="" group-title="24/7 Serien",4 Blocks HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skmol-ZB_d5BjIe8WmVDfiJBQSECjaolF8ldX1A_lbue
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alf HD" tvg-logo="" group-title="24/7 Serien",Alf HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjojBVhQC8WPSIn0XbIOzib6amsXyTTAE3pUWR6LQ-8V
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alle Hassen Chris HD" tvg-logo="" group-title="24/7 Serien",Alle Hassen Chris HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skmol-ZB_d5BjIe8WmVDfiLA1rpUqTh2RBMf2IOKmmnT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Alles Atze HD" tvg-logo="" group-title="24/7 Serien",Alles Atze HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShD17-Ivb5_-20ZJxkJ9M4_ws-5pXUMnfy51T73JX4Em
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="American Dad! HD" tvg-logo="" group-title="24/7 Serien",American Dad! HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sj6EpWW0ot7tdCY4LvVhlQj1lDpsFjX8HCW_acEZ-wJ5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="American Horror Story HD" tvg-logo="" group-title="24/7 Serien",American Horror Story HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skmol-ZB_d5BjIe8WmVDfiK5fi6Cs5IYNB2jvLFFn4Lg
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arrow HD" tvg-logo="" group-title="24/7 Serien",Arrow HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpPZQbVfueL1KUMswSjPSyfX6xsY6zQpyraptmF8qH41
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Auf Schlimmer Und Ewig HD" tvg-logo="" group-title="24/7 Serien",Auf Schlimmer Und Ewig HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sodz6ZdjZKRA_GAdriPk-9jkXYe7yb9cR8DGtR_6z5u3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Awkward HD" tvg-logo="" group-title="24/7 Serien",Awkward HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjojBVhQC8WPSIn0XbIOziZVIxA7IIwsx1PLSDfn3PXk
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blue Bloods HD" tvg-logo="" group-title="24/7 Serien",Blue Bloods HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlZl4l8gFichbd6gHpDVBDYoRpDqtIbfVhg5H5LBqT22
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bobs Burger HD" tvg-logo="" group-title="24/7 Serien",Bobs Burger HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrQTE4pRQiR60maalDFh1j05ZORmrVeG9eED63qKaivz
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bojack Horseman HD" tvg-logo="" group-title="24/7 Serien",Bojack Horseman HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrzoJ33l1KwssMHtbFSJil1Mh8pIJKKOIafnqT9vRgJZ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Border Patrol HD" tvg-logo="" group-title="24/7 Serien",Border Patrol HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sju0tCMgyQHmNUPlkRUZWjjiiZhd4KV72-NPite6Ib4u
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boston Legal HD" tvg-logo="" group-title="24/7 Serien",Boston Legal HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgHDehkkFF1AwxzSJqZirqCvQmr1-5XdEX450rSaPFGe
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bull HD" tvg-logo="" group-title="24/7 Serien",Bull HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShvGfS65z4xYG2_ssx1HSDK_QqbTTtQdwJJ_WlSAjCwp
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Burn Notice HD" tvg-logo="" group-title="24/7 Serien",Burn Notice HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpPZQbVfueL1KUMswSjPSyeVPc93hWpKi5Ojr5-gNCWi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Charmed HD" tvg-logo="" group-title="24/7 Serien",Charmed HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrQTE4pRQiR60maalDFh1j2Vn30T6Of399farHBSYFCG
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chicago Fire HD" tvg-logo="" group-title="24/7 Serien",Chicago Fire HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpPZQbVfueL1KUMswSjPSyf00-JXMzcwkLtcgS1b4OMc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Chicago P.d HD" tvg-logo="" group-title="24/7 Serien",Chicago P.d HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SoLktWUE828OUfQds_M5rmcl7AuYDOvOdKO781r7UlrI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Close Enouth HD" tvg-logo="" group-title="24/7 Serien",Close Enouth HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjGXcpvabZNbij7AP2QH2hwDF-VRXLJ65w9E7GS6duNY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cold Case - Kein Opfer Ist Je Vergessen HD" tvg-logo="" group-title="24/7 Serien",Cold Case - Kein Opfer Ist Je Vergessen HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjojBVhQC8WPSIn0XbIOziZxwbgZaQD3BfRUTxf01amf
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Criminal Intent HD" tvg-logo="" group-title="24/7 Serien",Criminal Intent HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmHycA36g8F9uGwwi-tD_uzTKjsDEzYjLkv9aOPQ4CZQ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Crossing Jordan HD" tvg-logo="" group-title="24/7 Serien",Crossing Jordan HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmFm7t-KzkkqzX7PP4n-q7nMlpiKnSkQzon8q9bJflv_
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Csi: Miami HD" tvg-logo="" group-title="24/7 Serien",Csi: Miami HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjojBVhQC8WPSIn0XbIOzibJkXlgi97D1hb4WdclqCQI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="D.c Legends Of Tomorrow HD" tvg-logo="" group-title="24/7 Serien",D.c Legends Of Tomorrow HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjojBVhQC8WPSIn0XbIOziY5CWi9mESCg2XYOjqKNnmq
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Der Prinz Of Bel Air HD" tvg-logo="" group-title="24/7 Serien",Der Prinz Of Bel Air HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShD17-Ivb5_-20ZJxkJ9M4_7qwP87xCQvVQ7oIyKyDCW
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Desperate Housewife�s HD" tvg-logo="" group-title="24/7 Serien",Desperate Housewife�s HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpPZQbVfueL1KUMswSjPSyekUjB3ox045KkoFt17q_bH
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Die Aquarien Profis" tvg-logo="" group-title="24/7 Serien",Die Aquarien Profis
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SoJpnIsU-Nz5V7z_Nab6z1c2BZrDQund4izY49TiOccr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Die Nanny HD" tvg-logo="" group-title="24/7 Serien",Die Nanny HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgwNvnKoCGoENsEN2erzRdseQDLMXqufA99G21zRr6ki
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Die Simpsons HD" tvg-logo="" group-title="24/7 Serien",Die Simpsons HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpPZQbVfueL1KUMswSjPSyfnOqLWi9ZEFCmWbzckGwU6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dr. House HD" tvg-logo="" group-title="24/7 Serien",Dr. House HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShILn2GSvxVLgQe1Qgjql6fjq0BQ2pV76rCxZ5R_cVRA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Drawn Together HD" tvg-logo="" group-title="24/7 Serien",Drawn Together HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrzoJ33l1KwssMHtbFSJil3p6f693lU4QMvKfWFVa-PJ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eine Himmlische Familie" tvg-logo="" group-title="24/7 Serien",Eine Himmlische Familie
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sgy_G5xOdSJgsW9ikP4M7guH77kHfjYKzgvXS5ocDcvO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eine Schrecklich Nette Familie SD" tvg-logo="" group-title="24/7 Serien",Eine Schrecklich Nette Familie SD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpPZQbVfueL1KUMswSjPSycQUj6ON0Ukp88HB_6EkdUm
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elementary HD" tvg-logo="" group-title="24/7 Serien",Elementary HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqFdcB1ADtl1tVU1LKis9r_cwAbm9AVJe4Iw4fYr-hQK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Elite HD" tvg-logo="" group-title="24/7 Serien",Elite HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SuJmKpNK6OGGIytF-nV4F4D7rTkfg1zPM3RazT7X2H6x
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Emergency Room HD" tvg-logo="" group-title="24/7 Serien",Emergency Room HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqFdcB1ADtl1tVU1LKis9r-sAmmHo4KHblqtEVLfK2cG
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eureka - Die Geheime Stadt HD" tvg-logo="" group-title="24/7 Serien",Eureka - Die Geheime Stadt HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjojBVhQC8WPSIn0XbIOzibQWJPE-OHlH3uh7oT74MVk
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="F Is For Family HD" tvg-logo="" group-title="24/7 Serien",F Is For Family HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjGXcpvabZNbij7AP2QH2hx_m8SSSSPVX_PwQ-GcOH3b
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fairy Tail HD" tvg-logo="" group-title="24/7 Serien",Fairy Tail HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Ste8AB62pF2o7tqDPFX2dfiSFRdqP7jb2n9rLwi4vD8D
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Family Guy HD" tvg-logo="" group-title="24/7 Serien",Family Guy HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgMoPQ-x73_Yu8IKZF0LUCh_Iafva-ttst1NI0LQfECd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fear The Walking Dead HD" tvg-logo="" group-title="24/7 Serien",Fear The Walking Dead HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqqSCTWfbJg_MWh5INVbktB3VNIXdsaS4v_bRuVxrB6G
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fresh Of The Boat HD" tvg-logo="" group-title="24/7 Serien",Fresh Of The Boat HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SoMUZGViSOZGpdqgxVeU86SmxNmAfwfO-IJphl6km7zZ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Friends HD" tvg-logo="" group-title="24/7 Serien",Friends HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Shj2ucqbYwxeQq-3IVkJVdS0NteLiLQgWD5WuJ4i-G0v
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fugget About It HD" tvg-logo="" group-title="24/7 Serien",Fugget About It HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjGXcpvabZNbij7AP2QH2hyTPF59OU6tiqOu8TFlLEIt
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Full House HD" tvg-logo="" group-title="24/7 Serien",Full House HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqFdcB1ADtl1tVU1LKis9r-0u4leIiIkz2f66n8TRPN4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futurama HD" tvg-logo="" group-title="24/7 Serien",Futurama HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrzoJ33l1KwssMHtbFSJil3iZ5fp89pLWXbXoFcF4Qgs
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Game Of Thrones HD" tvg-logo="" group-title="24/7 Serien",Game Of Thrones HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqFdcB1ADtl1tVU1LKis9r9BOpdNbF9Ro3EmlVwP4YPP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gilmore Girls HD" tvg-logo="" group-title="24/7 Serien",Gilmore Girls HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg74P7E2KVZTmncTKfs-ok72EBFhOB5t_cUZFy3UyD_y
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gotham HD" tvg-logo="" group-title="24/7 Serien",Gotham HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg74P7E2KVZTmncTKfs-ok6V-gQlzb8iSoVpvT5yGG9T
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Goldrausch Alaska HD" tvg-logo="" group-title="24/7 Serien",Goldrausch Alaska HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sv8KfT9KUbaaczH-bgKPh9Nl8TuBG781LbiMAYCrfZSF
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gomorra HD" tvg-logo="" group-title="24/7 Serien",Gomorra HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqFdcB1ADtl1tVU1LKis9r_NF6e_fdv9ytPMWHxq6c9a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Greys Anatomy HD" tvg-logo="" group-title="24/7 Serien",Greys Anatomy HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqFdcB1ADtl1tVU1LKis9r-tRT_ImDntCdDh7Pvxclsh
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Grill Den Henssler HD" tvg-logo="" group-title="24/7 Serien",Grill Den Henssler HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlTSSnswzyWKlgsLthj4sP5BeqgiRqHogN3RCs69K2sx
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Haus Des Geldes HD" tvg-logo="" group-title="24/7 Serien",Haus Des Geldes HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqFdcB1ADtl1tVU1LKis9r8bTAuKNnNIMVBdN-6HLq8T
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hausmeister Krause" tvg-logo="" group-title="24/7 Serien",Hausmeister Krause
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqFdcB1ADtl1tVU1LKis9r-zXCeOWLBZ-eywbLBTCZcu
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hawaii 5-0 HD" tvg-logo="" group-title="24/7 Serien",Hawaii 5-0 HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqqSCTWfbJg_MWh5INVbktAI1BhYUu337MOKPudLabtj
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Heven HD" tvg-logo="" group-title="24/7 Serien",Heven HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SvBPMwXXaBVG7rU0CalSAuhHI4TdPItecuXP5sYqKlxh
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="How I Met Your Mother HD" tvg-logo="" group-title="24/7 Serien",How I Met Your Mother HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Su7CVNl0Mt527JDleTwwoq171j-49qZ7rVrgWZ4JOPaj
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="H�r Mal Wer Da H�mmert" tvg-logo="" group-title="24/7 Serien",H�r Mal Wer Da H�mmert
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Su7CVNl0Mt527JDleTwwoq0SNQFrd4naDuwiGiHCa8xP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Iceroad Truckers HD" tvg-logo="" group-title="24/7 Serien",Iceroad Truckers HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SubjW1L_bmBjAp5DAdCt3_AgiVVYPUFS1hzGHaPmQJA-
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Immer Wieder Jim HD" tvg-logo="" group-title="24/7 Serien",Immer Wieder Jim HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpUCM35aoG3zp57oMOitSZdyhfw75R4XePFhI4GoOc4P
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kevin Cant Wait HD" tvg-logo="" group-title="24/7 Serien",Kevin Cant Wait HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Su7CVNl0Mt527JDleTwwoq1A49QXIebgv4_zs0ZlCKOJ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="King Of Queens HD" tvg-logo="" group-title="24/7 Serien",King Of Queens HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Su7CVNl0Mt527JDleTwwoq3O_fUinRlp8491dwd8V2Bk
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kitchen Impossible HD" tvg-logo="" group-title="24/7 Serien",Kitchen Impossible HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SuRsZ7Pj-GFYvHtDwn1dXq9gkjKYxLS-Qzycqfi-vDnd
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lass Es Larry HD" tvg-logo="" group-title="24/7 Serien",Lass Es Larry HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjztCDaZZgeulmRcDHwQ7O79PBJZgDQrkfVCZiVCHrfS
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Law And Order HD" tvg-logo="" group-title="24/7 Serien",Law And Order HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sn4HFBmt-jBPDmdCMd5n3IgmGe9v3iX_ajN0KXG8YxLK
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Law And Order Svu HD" tvg-logo="" group-title="24/7 Serien",Law And Order Svu HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmfjYfe6qr5kdACzvpiEWWEIt1kUbjTKyVB9IENYT_oc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lost HD" tvg-logo="" group-title="24/7 Serien",Lost HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlK0czO61FWg3ToUedfbKW-W-o_tZaO3hakXzpPVBHb1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magnum P.i HD" tvg-logo="" group-title="24/7 Serien",Magnum P.i HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SvBPMwXXaBVG7rU0CalSAuj_tgRFTW0DFn5q3KfUMiPr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Malcom Mittendrin HD" tvg-logo="" group-title="24/7 Serien",Malcom Mittendrin HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Su7CVNl0Mt527JDleTwwoq0LjGpyw5KfaJu3eugqs5Br
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Monk HD" tvg-logo="" group-title="24/7 Serien",Monk HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sr4Scpb50-yhUfkz7h9oa88tNvvGUYmSJXENfGNMUtSB
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mr.robot HD" tvg-logo="" group-title="24/7 Serien",Mr.robot HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sr4Scpb50-yhUfkz7h9oa8-v9vy3MnunW1WcVFVmZdsF
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY Name Is Earl HD" tvg-logo="" group-title="24/7 Serien",MY Name Is Earl HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShD17-Ivb5_-20ZJxkJ9M48WSfbR7XBm_6QsiUODggSk
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Naruto HD" tvg-logo="" group-title="24/7 Serien",Naruto HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SoJpnIsU-Nz5V7z_Nab6z1ebMlNi9Jx2wXF5zcFXXNpA
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ncis HD" tvg-logo="" group-title="24/7 Serien",Ncis HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sr4Scpb50-yhUfkz7h9oa8_lVYo4n_r5oi-cq_yzIQE0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ncis L.a. HD" tvg-logo="" group-title="24/7 Serien",Ncis L.a. HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Srn911X13SSFzfqZUkqh5GNjeMH5QgU0U3eN5tNXkRbC
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ncis New Orleans HD" tvg-logo="" group-title="24/7 Serien",Ncis New Orleans HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqtJkErSWUXPTAGKdKqhLY8U05JUmKOcz38z9c9K30-E
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Piece HD" tvg-logo="" group-title="24/7 Serien",One Piece HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlTSSnswzyWKlgsLthj4sP7HIDO0ibNc-2R3oPKxSZQf
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Orange Is The New Black HD" tvg-logo="" group-title="24/7 Serien",Orange Is The New Black HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sr4Scpb50-yhUfkz7h9oa89VjSc2fNcoaSKdT_HdBJ7R
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Paradise Pd HD" tvg-logo="" group-title="24/7 Serien",Paradise Pd HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjGXcpvabZNbij7AP2QH2hwpXoUe1TW8TcZy_qFhtdG6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Power HD" tvg-logo="" group-title="24/7 Serien",Power HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sj_JiJR6oj9mR0WCbEcUbRFpQhSe7Qrhr04nquATT6MV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Prison Break HD" tvg-logo="" group-title="24/7 Serien",Prison Break HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sr4Scpb50-yhUfkz7h9oa8-snz7hIL6eoSHmrvAkGOJ2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Queen Of The South HD" tvg-logo="" group-title="24/7 Serien",Queen Of The South HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sr4Scpb50-yhUfkz7h9oa89AtzkOzG_ZZrYLQ5AlFYbc
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Riverdale HD" tvg-logo="" group-title="24/7 Serien",Riverdale HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sr4Scpb50-yhUfkz7h9oa8-CunyNf6t3bPABXW0N10XN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Roseanne" tvg-logo="" group-title="24/7 Serien",Roseanne
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sgy_G5xOdSJgsW9ikP4M7gtPHqCySebUNKDtzpZdxEc2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="S.w.a.t HD" tvg-logo="" group-title="24/7 Serien",S.w.a.t HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SsxwLVceLhcDofoPTUuvdaMM6K4nScOv7TKmsjje4rc3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sabrina Total Verhext" tvg-logo="" group-title="24/7 Serien",Sabrina Total Verhext
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShTe41ZVQyHWyKvgung_QWwWa9sesQ5Evq93FNhbqIg9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Scrubs Die Anf�ger HD" tvg-logo="" group-title="24/7 Serien",Scrubs Die Anf�ger HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SsxwLVceLhcDofoPTUuvdaPcgv2PH9bXQ7vMsZHu7j_a
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sex And The City HD" tvg-logo="" group-title="24/7 Serien",Sex And The City HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SsxwLVceLhcDofoPTUuvdaPXENf4G5XeNhIcYYC53VFh
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="South Park HD" tvg-logo="" group-title="24/7 Serien",South Park HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SsxwLVceLhcDofoPTUuvdaMQBhCPgMlymV9QyrtQUXV7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Stargate Atlantics HD" tvg-logo="" group-title="24/7 Serien",Stargate Atlantics HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sm3gKtYgT3oky90H3B5wnP9tA2C6qbEZJ9enhEOkfv1Q
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Steel Buddies HD" tvg-logo="" group-title="24/7 Serien",Steel Buddies HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShTe41ZVQyHWyKvgung_QWye_9k4-7kUg46zA7HGmPtU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Suits HD" tvg-logo="" group-title="24/7 Serien",Suits HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SsxwLVceLhcDofoPTUuvdaPlhpEpYyBD76i8YN869T20
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Supergirl HD" tvg-logo="" group-title="24/7 Serien",Supergirl HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sj6EpWW0ot7tdCY4LvVhlQgNm41DzlyQnLMX-qqBviZ0
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The 100 HD" tvg-logo="" group-title="24/7 Serien",The 100 HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SsxwLVceLhcDofoPTUuvdaMWace8CLQn_xuBO-LxeRI_
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Big Bang Theory HD" tvg-logo="" group-title="24/7 Serien",The Big Bang Theory HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SsxwLVceLhcDofoPTUuvdaNBMq9lZfG9_wYCgxFVa5F_
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Cleveland Show HD" tvg-logo="" group-title="24/7 Serien",The Cleveland Show HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Ss-SO7-ts124a64aEHsESRhNFjWsOLS00aYXv9F9xsin
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Middle HD" tvg-logo="" group-title="24/7 Serien",The Middle HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sh7bLms33VKSYbPH8DvcT2fne3u-HrhLmvieeRNTNwAG
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Shield HD" tvg-logo="" group-title="24/7 Serien",The Shield HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SvBPMwXXaBVG7rU0CalSAugNKrXniBC5BQq53chqgLhQ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Walking Dead HD" tvg-logo="" group-title="24/7 Serien",The Walking Dead HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sh7bLms33VKSYbPH8DvcT2cA2xZrT6cgka29-RBx_qcV
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tote M�dchen L�gen Nicht HD" tvg-logo="" group-title="24/7 Serien",Tote M�dchen L�gen Nicht HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sh7bLms33VKSYbPH8DvcT2f9UCEA329xUAvJ6yaJAiNY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Two And A Half Men HD" tvg-logo="" group-title="24/7 Serien",Two And A Half Men HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sh7bLms33VKSYbPH8DvcT2eHspb5bz8AZAaBaPUwoCtM
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Van Helsing HD" tvg-logo="" group-title="24/7 Serien",Van Helsing HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sh7bLms33VKSYbPH8DvcT2c8cCPs1nj6kW6QjtWESuHU
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vikings HD" tvg-logo="" group-title="24/7 Serien",Vikings HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sh7bLms33VKSYbPH8DvcT2cfI4TSrLtohY4wKUsrs3jW
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Whats Up Dad HD" tvg-logo="" group-title="24/7 Serien",Whats Up Dad HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sv8KfT9KUbaaczH-bgKPh9N3DfUgo_xfNM5JPj_RDrPQ
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Young Sheldon HD" tvg-logo="" group-title="24/7 Serien",Young Sheldon HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sh7bLms33VKSYbPH8DvcT2cz5uQHdiCxcGd9GbsxgIUx
 #EXTINF:-1 tvg-id="BabyTV.de(m3u4u)" tvg-name="Baby TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83553_dark_360w_270h.png" group-title="Kids" ,Baby TV
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://45.129.133.4:8008/a/willene/live/2519207484.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
@@ -3092,3 +3257,9 @@ http://185.53.88.85:8008/a/willene/live/28324070.ts?n=1&b=5&vavoo_auth=eyJkYXRhI
 #EXTINF:-1 tvg-id="TotallyTurtles.de(m3u4u)" tvg-name="Totally Turtles" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114870_dark_360w_270h.png" group-title="Kids" ,Totally Turtles
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 http://89.36.94.102:8008/a/willene/live/105471604.ts?n=1&b=5&vavoo_auth=eyJkYXRhIjoie1widGltZVwiOjI2MDk0NDA0MDEwMjksXCJ2YWxpZFVudGlsXCI6MjYwOTQ0MTAwMTAyOSxcImlwc1wiOltcIjE1NC45Mi4wLjIzXCJdLFwicnVsZXNldFwiOlwiZ3Vlc3RcIixcInZlcmlmaWVkXCI6dHJ1ZSxcImVycm9yXCI6bnVsbCxcImFwcFwiOntcInBsYXRmb3JtXCI6XCJ2YXZvb1wiLFwidmVyc2lvblwiOlwiMi42XCIsXCJzZXJpdmNlXCI6XCIxLjIuMjZcIixcIm9rXCI6dHJ1ZX0sXCJ1dWlkXCI6XCI1T2MyVkR3UmdyMjlSMmVXZTh1Zi9ZUitDOHZaOXAvdVM5eCtSY2cwS1FvPVwifSIsInNpZ25hdHVyZSI6ImFTdGJpT2U0V0gyTzBrZm9TN0VTV2JXTFk3RS9vVTN1OWJNeml2bDdKWkc1eW1HRElmam92blVlQUFpbVdzc3NHUDNOeHg5VDAvL0hnSUlPV21xMkpiUXJ4NFBlYVdQMkM5U1ZNTFA5cjMzYnNURXEvMXZWeVZ3RnBBMm00bTdrNHVpZkpablk4enBqNnNWNGdHUDBGd0NBbCszRnkrSm9zWmhGU0FXYkNUYz0ifQ==|User-Agent=VAVOO/2.6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD",Sherlock Holmes (2009)
+http://stronzo.ddnss.de:4321/9470
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD",Sherlock Holmes 2 (2011)
+http://stronzo.ddnss.de:4321/1719
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VOD",WarHunt (2022)
+http://stronzo.ddnss.de:4321/7230
