@@ -1,24 +1,4 @@
-import os,pip
-import datetime,os
-import socket,hashlib,shutil
-import json,random,sys, time,re,marshal
-nickn=""
-nickn=""
-if nickn=="":
-	nickn="THOR MASTER 2023 "
-try:
-	import androidhelper as sl4a
-	ad = sl4a.Android()
-except:pass
 
-import subprocess
-try:
-	import threading
-except:pass
-import pathlib,base64
-#subprocess.run(["clear", ""])
-try:
-	import requests
 except:
 	print("Potrebmi Modul  nije pronađen \n Potrebni Modul je instaliran... \n")
 	pip.main(['install', 'requests'])
@@ -61,37 +41,7 @@ logging.captureWarnings(True)
 os.system('cls')
 
 say1=0
-say2=0
-say=0
-yanpanel="hata"
-imzayan=""
-bul=0
-hitc=0
-prox=0
-cpm=0
 
-#from datetime import datetime
-#bugun=(datetime.today().strftime('%d-%m-%Y'))
-
-#	#f bugun>= '09-04-2022':
-#		print("""
-#	Otkriveno je vremensko ogranicenje, kontaktirajte proizvođaca
-#	@IptvMaster""")
-#		quit()
-
-
-# macSayisi=999999999999991# 1#deneme sayisı
-feyzo=("""
-\33[1;44m
-                  THorMasters 2023
-           MAC SCANER VELIKE BRZINE
-
-                                                \33[0m\33[31m\33[1;37;41m
-\33[1;7;42m          Grega BY @Thor             \33[0m                                                                 """)
-print(feyzo)
-#id1='aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvZS8yUEFDWC0xdlJOUFNBQ3RxOUNzZ0hzRzlaYlFp'
-#id2='VG1WM1N6QmtVVWhuWkRGa1EyVndNV2wzZGtwMVNYRlJORWh4WW5kaFozSjFiVGx4UWkxUU5EQndVbGRFYTNRMFdWVlNjakZZTUdWaFRTOXdkV0pvZEcxcw=='
-#id3=base64.b64decode(id1)+base64.b64decode(base64.b64decode(id2))
 #res = ses.get(id3, timeout=15, verify=False)
 
 #si=(str(res.text).split('sifre')[1].split('paranormal')[0])
@@ -119,45 +69,12 @@ intro="""
    7 ➨ ministra.php
    8 ➨ xUi /c/server/load.php
    9 ➨ xUi /c/portal.php
- 10 ➨ portalstb/portal.php
- 11 ➨ mag.portal.php
- 12 ➨ Link_OK.php
- 13 ➨ k/portal.php
 
-\33[1;44m
-Odaberite 1 do 13 za vrstu portala = \33[0m\33[31m\33[1;37;41m"""
-
-a="""Portal:Port = """
-panel = input(intro)
-print('\33[0m')
-speed=""
-
-
-uzmanm="portal.php"
-useragent="okhttp/4.7.1"
-
-if  panel=="0":
-    	uzmanm=input('Yazınız=')
-    	useragent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 2721 Mobile Safari/533.3"
-    	#subprocess.run(["clear", ""])
     	print(feyzo)
     	panel = input(intro)
 
 
-if  panel=="" or panel=="1":
-    	uzmanm="portal.php"
-    	useragent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 2721 Mobile Safari/533.3"
-    	#subprocess.run(["clear", ""])
-    	print(feyzo)
-    	panel = input(a)
 
-if panel=="2":
-    	uzmanm="server/load.php"
-    	#subprocess.run(["clear", ""])
-    	print(feyzo)
-    	panel = input(a)
-
-if panel=="3":
     	uzmanm="server/load.php"
     	useragent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3"
     	#subprocess.run(["clear", ""])
@@ -182,34 +99,7 @@ if panel=="6":
     	uzmanm="portalcc/portal.php"
     	useragent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 2721 Mobile Safari/533.3"
     	#subprocess.run(["clear", ""])
-    	print(feyzo)
-    	panel = input(a)
-
-if panel=="7":
-    	uzmanm="ministra/portal.php"
-    	useragent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 2721 Mobile Safari/533.3"
     	#subprocess.run(["clear", ""])
-    	print(feyzo)
-    	panel = input(a)
-
-if panel=="8":
-    	uzmanm="c/server/load.php"
-    	#subprocess.run(["clear", ""])
-    	print(feyzo)
-    	panel = input(a)
-
-if panel=="9":
-    	uzmanm="c/portal.php"
-    	useragent="Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 4 rev: 2721 Mobile Safari/533.3"
-    	#subprocess.run(["clear", ""])
-    	print(feyzo)
-    	panel = input(a)
-
-if panel=="10":
-    	uzmanm="portalstb/portal.php"
-    	#subprocess.run(["clear", ""])
-    	print(feyzo)
-    	panel = input(a)
 
 if panel=="11":
     	uzmanm="bs.mag.portal.php"
